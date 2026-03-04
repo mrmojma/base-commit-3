@@ -6,3 +6,4 @@ dont trade rush
 make it simple
 dont fade this project
 dont copy me
+team liquid loss
