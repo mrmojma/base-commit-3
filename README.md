@@ -8,3 +8,4 @@ dont fade this project
 dont copy me
 team liquid loss
 play for win
+IP is the future
