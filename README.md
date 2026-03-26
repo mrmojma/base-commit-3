@@ -10,3 +10,4 @@ team liquid loss
 play for win
 IP is the future
 i went to school
+hello my friend
